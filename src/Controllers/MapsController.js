@@ -47,7 +47,7 @@ export class MapsController {
             },
 
             title: {
-                text: 'Mapa de Teste'
+                text: 'Mapa do Brasil'
             },
 
             subtitle: {
